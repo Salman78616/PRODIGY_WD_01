@@ -1,2 +1,2 @@
-# Landing page
-- created using HTML, CSS and JavaScript
+### PRODIGY_WD_01
+# Task 1 - Landing Page
