@@ -1,2 +1,2 @@
-###Landing page
+#Landing page
 - created using HTML, CSS and JavaScript
